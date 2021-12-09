@@ -100,7 +100,7 @@ var settings = {
   dots: false,
   infinite: false,
   speed: 500,
-  slidesToShow: 3,
+  slidesToShow: 4,
   slidesToScroll: 1,
   initialSlide: 0,
   nextArrow: <SampleNextArrow />,
@@ -110,7 +110,7 @@ var settings = {
     {
       breakpoint: 1365,
       settings: {
-        slidesToShow: 4,
+        slidesToShow: 3,
         slidesToScroll: 1,
         infinite: true,
         dots: true,
