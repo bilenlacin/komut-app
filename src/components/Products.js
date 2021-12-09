@@ -108,6 +108,15 @@ var settings = {
 
   responsive: [
     {
+      breakpoint: 1365,
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: true,
+      },
+    },
+    {
       breakpoint: 1046,
       settings: {
         slidesToShow: 2,
